@@ -1,5 +1,5 @@
 // Configuration
-const WHATSAPP_NUMBER = '551399649-9584'; // Replace with actual restaurant WhatsApp number
+const WHATSAPP_NUMBER = '5513997597759'; // Replace with actual restaurant WhatsApp number
 
 // Cart functions
 function getCart() {
